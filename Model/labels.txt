@@ -1,3 +1,26 @@
-0 A
-1 B
-2 C
+0 A Gesture
+1 B Gesture
+2 C Gesture
+3 D Gesture
+4 E Gesture
+5 F Gesture
+6 G Gesture
+7 H Gesture
+8 I Gesture
+9 J Gesture
+10 K Gesture
+11 L Gesture
+12 M Gesture
+13 N Gesture
+14 O Gesture
+15 P Gesture
+16 Q Gesture
+17 R Gesture
+18 S Gesture
+19 T Gesture
+20 U Gesture
+21 V Gesture
+22 W Gesture
+23 X Gesture
+24 Y Gesture
+25 Z Gesture

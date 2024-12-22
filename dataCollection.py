@@ -9,7 +9,7 @@ detector = HandDetector(maxHands=1)
 OFFSET = 30
 IMAGE = 300
 COUNT = 0
-folder = "Data/G"
+folder = "Data/A"
 
 while True:
     success, img = cap.read()

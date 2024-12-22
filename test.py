@@ -22,6 +22,12 @@ Constants:
 The model struggles to accurately recognize hand gestures corresponding to the letters:
 - E,S,M,N, and T
 - V and K and W.
+
+Suitable Version:
+Python 3.10.8
+cvzone 1.6.1
+mediapipe 0.10.5
+tensorflow 2.9.1
 """
 
 import cv2

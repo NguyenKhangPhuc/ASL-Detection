@@ -18,6 +18,10 @@ Constants:
 - OFFSET: Padding around the hand bounding box.
 - IMAGE: Canvas size (300x300 pixels).
 - labels: List of hand sign labels corresponding to model predictions.
+
+The model struggles to accurately recognize hand gestures corresponding to the letters:
+- E,S,M,N, and T
+- V and K and W.
 """
 
 import cv2
